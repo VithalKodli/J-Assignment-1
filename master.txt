@@ -1,2 +1,2 @@
 This is master.txt file
-New Change made
+New Change made 2 times
